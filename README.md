@@ -28,5 +28,5 @@
 <img src = "images/a2f5c3f8-c2c1-4495-8c00-982af06ada7b.jpg">
 <img src = "images/8e9385a8-5daf-4d80-8e1b-457e400b86db.jpg">
 <img src = "images/a1fa403a-cbbc-49e9-85da-74e2616e0836.jpg">
-![image](https://user-images.githubusercontent.com/82138666/126524315-2746e357-46b2-4a27-a183-112cdcde21b0.png)
+
 
